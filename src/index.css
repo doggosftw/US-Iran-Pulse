@@ -1,0 +1,186 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  --bg-color: #050510;
+  --text-color: #f1f5f9;
+  --glass-bg: rgba(15, 23, 42, 0.45);
+  --glass-border: rgba(255, 255, 255, 0.08);
+  --accent-blue: #38bdf8;
+  --accent-red: #ef4444;
+  --accent-gold: #fbbf24;
+  --accent-purple: #c084fc;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  overflow: hidden;
+  /* App is full screen */
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Glassmorphism Utilities */
+.glass-panel {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--glass-border);
+  border-radius: 16px;
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.5);
+}
+
+.text-gradient {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-image: linear-gradient(90deg, #f8fafc, #94a3b8);
+}
+
+/* Layout */
+.app-container {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.globe-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 1;
+}
+
+.ui-layer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 10;
+  pointer-events: none;
+  /* Let clicks pass through to the globe by default */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 24px;
+}
+
+/* UI components need pointer-events back */
+.ui-interactive {
+  pointer-events: auto;
+}
+
+/* Specific Component Placements */
+.top-row {
+  width: 100%;
+  pointer-events: none;
+}
+
+.middle-row {
+  flex: 1;
+  /* Takes available space between header and timeline */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* Centers both panels vertically */
+  width: 100%;
+  pointer-events: none;
+  padding: 24px 0;
+  /* Spacing from header and timeline */
+  overflow: hidden;
+  /* Prevent overflow */
+}
+
+.header-title {
+  padding: 16px 24px;
+  max-width: 400px;
+  pointer-events: auto;
+}
+
+.header-title h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin-bottom: 4px;
+}
+
+.header-title p {
+  font-size: 0.875rem;
+  color: #94a3b8;
+}
+
+.market-panel {
+  padding: 20px;
+  width: 320px;
+  pointer-events: auto;
+}
+
+.event-details-panel {
+  width: 400px;
+  padding: 24px;
+  max-height: 100%;
+  /* Constrains to middle-row height */
+  overflow-y: auto;
+  pointer-events: auto;
+}
+
+.bottom-timeline {
+  width: 100%;
+  max-width: calc(100vw - 48px);
+  /* Strictly constrain its maximum physical width relative to screen */
+  padding: 16px 24px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 12px;
+
+  /* Create an aggressive edge mask directly on the box, so dots cannot bleed past the visual glass pane */
+  -webkit-mask-image: linear-gradient(to right, transparent, black 40px, black calc(100% - 40px), transparent);
+  mask-image: linear-gradient(to right, transparent, black 40px, black calc(100% - 40px), transparent);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.4s ease-out forwards;
+}
+
+/* Scrollbar styling for panels */
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
+}

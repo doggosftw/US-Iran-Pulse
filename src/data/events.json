@@ -1,0 +1,2321 @@
+{
+  "events": [
+    {
+      "id": "fefcccaf-f98e-4b35-9fef-646ed27d7a36",
+      "date": "2026-01-05T10:00:00+05:30",
+      "title": "US Issues Stern Warning on Uranium Enrichment",
+      "description": "The White House sets a strict deadline for Iran to halt 60% uranium enrichment.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Gold ticks up slightly.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "action": {
+        "type": "html_element",
+        "target": "35.6892,51.389",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "da5a38ba-5bf5-4b0b-a9de-67f9ca8cbf00",
+      "date": "2026-01-09T14:30:00+05:30",
+      "title": "Protests Erupt in Tehran",
+      "description": "Large-scale anti-government protests break out over economic conditions.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "IRN"
+      ],
+      "impact": "Internal destabilization noted by markets.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "action": {
+        "type": "html_element",
+        "target": "35.6892,51.389",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "386098c0-a520-40ac-81ae-397f0ec9c06f",
+      "date": "2026-01-14T08:15:00+05:30",
+      "title": "Israel Briefs White House on Strike Plans",
+      "description": "Leaked intelligence suggests PM Netanyahu briefed the US on potential unilateral strike packages.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "ISR",
+        "USA"
+      ],
+      "impact": "Oil climbs 1%.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "action": {
+        "type": "html_element",
+        "target": "31.7683,35.2137",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "942bd05a-8a7a-40f2-95f0-bf61b3da9e88",
+      "date": "2026-01-18T11:45:00+05:30",
+      "title": "Houthi Drone Strikes Red Sea Tanker",
+      "description": "A commercial oil tanker is struck by a suspected Iranian-supplied drone.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "IRN",
+        "YEM"
+      ],
+      "impact": "Brent crude spikes 2%.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 15.3,
+        "lng": 41.5
+      },
+      "action": {
+        "type": "custom",
+        "target": "15.3,41.5",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "bb536e80-74de-4ee2-b976-bb9cf288c0c7",
+      "date": "2026-01-23T16:20:00+05:30",
+      "title": "Oman Mediation Talks Collapse",
+      "description": "Indirect talks mediated by Oman between US and Iranian diplomats fail to produce a breakthrough.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "USA",
+        "IRN",
+        "OMN"
+      ],
+      "impact": "Market pessimism rises.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 23.5859,
+        "lng": 58.4059
+      },
+      "action": {
+        "type": "html_element",
+        "target": "23.5859,58.4059",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "f7bb04d2-28dd-4485-a0e0-328830278ebc",
+      "date": "2026-02-02T09:00:00+05:30",
+      "title": "US Increases Sanctions on Iranian Drone Manufacturers",
+      "description": "Treasury Dept blacklists 15 shell companies supplying drone parts.",
+      "category": "Macroeconomic",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Minor currency fluctuations.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Macroeconomic",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 38.9072,
+        "lng": -77.0369
+      },
+      "action": {
+        "type": "polygon",
+        "target": "38.9072,-77.0369",
+        "color": "#a855f7"
+      }
+    },
+    {
+      "id": "d321b9f2-b1ce-4f42-b177-d0ef0f133b82",
+      "date": "2026-02-05T13:00:00+05:30",
+      "title": "Massive US Naval Buildup",
+      "description": "Satellite imagery confirms two US carrier strike groups in the Gulf.",
+      "category": "War",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Oil markets price in war premium.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 26.2,
+        "lng": 54.8
+      },
+      "action": {
+        "type": "custom",
+        "target": "26.2,54.8",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "e832277c-4265-499a-9b72-5918204f4176",
+      "date": "2026-02-09T21:15:00+05:30",
+      "title": "Cyberattack on Israeli Water Infrastructure",
+      "description": "Iranian-linked hackers attempt to breach municipal water controls in Tel Aviv.",
+      "category": "Cyber",
+      "involvedCountries": [
+        "IRN",
+        "ISR"
+      ],
+      "impact": "Heightened alert protocols initiated.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Cyber",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 32.0853,
+        "lng": 34.7818
+      },
+      "action": {
+        "type": "hex_bin",
+        "target": "32.0853,34.7818",
+        "color": "var(--accent-blue)"
+      }
+    },
+    {
+      "id": "6791701b-173f-458c-9ef3-9e6fd10d27f5",
+      "date": "2026-02-14T18:50:00+05:30",
+      "title": "Israel Intercepts Drone Swarm from Syria",
+      "description": "Iron Dome and David's Sling activate extensively in the Golan Heights.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "ISR",
+        "SYR",
+        "IRN"
+      ],
+      "impact": "Gold surges past $2100.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 33.0,
+        "lng": 35.8
+      },
+      "action": {
+        "type": "custom",
+        "target": "33.0,35.8",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "7fb3489b-ec80-4045-a7d9-33fb6b9aa6a8",
+      "date": "2026-02-18T07:30:00+05:30",
+      "title": "UN Secretary General Warns of Grave Threat",
+      "description": "Ant\u00f3nio Guterres calls for immediate cessation of hostilities.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "UN",
+        "USA",
+        "IRN",
+        "ISR"
+      ],
+      "impact": "Diplomatic efforts peak.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 40.7484,
+        "lng": -73.9857
+      },
+      "action": {
+        "type": "html_element",
+        "target": "40.7484,-73.9857",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "00f1a171-c83e-48b2-b911-a8a9fec4297a",
+      "date": "2026-02-20T10:00:00+05:30",
+      "title": "US Intelligence Warns of Imminent Gulf Threats",
+      "description": "Declassified reports show drone battery movements.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Brent hits $82/bbl.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 26.5,
+        "lng": 56.2
+      },
+      "action": {
+        "type": "html_element",
+        "target": "26.5,56.2",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "b5474091-29f7-48f2-9438-4524b0d22402",
+      "date": "2026-02-21T14:20:00+05:30",
+      "title": "Cyberattack Cripples Kuwaiti Oil Infrastructure",
+      "description": "Operations paused at major terminal.",
+      "category": "Cyber",
+      "involvedCountries": [
+        "IRN",
+        "KWT"
+      ],
+      "impact": "Supply chain fears mount.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Cyber",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 29.3,
+        "lng": 47.9
+      },
+      "action": {
+        "type": "hex_bin",
+        "target": "29.3,47.9",
+        "color": "var(--accent-blue)"
+      }
+    },
+    {
+      "id": "9af32a6d-370d-4533-95bb-0d3bb7cee728",
+      "date": "2026-02-24T19:45:00+05:30",
+      "title": "US Embassies in Middle East Begin Evacuations",
+      "description": "Non-essential staff ordered out of Iraq, Lebanon, and Bahrain.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "USA",
+        "IRQ",
+        "LBN",
+        "BHR"
+      ],
+      "impact": "Panic trading begins.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 33.3128,
+        "lng": 44.3615
+      },
+      "action": {
+        "type": "html_element",
+        "target": "33.3128,44.3615",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "ee883b9b-08c5-400a-b61f-3e2eefdef081",
+      "date": "2026-02-26T08:00:00+05:30",
+      "title": "Iran Threatens to Close Strait of Hormuz",
+      "description": "IRGC naval commander states the strait will be closed if Iranian oil exports are targeted.",
+      "category": "War",
+      "involvedCountries": [
+        "IRN",
+        "USA"
+      ],
+      "impact": "Brent crude skyrockets 4%.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 26.56,
+        "lng": 56.25
+      },
+      "action": {
+        "type": "custom",
+        "target": "26.56,56.25",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "6340f37d-e31b-4a65-ba66-95d97b9d7889",
+      "date": "2026-02-27T23:30:00+05:30",
+      "title": "Unprecedented Communications Blackout in Iran",
+      "description": "Internet and cellphone networks go dark across major Iranian cities.",
+      "category": "Cyber",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Imminent strike expected.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Cyber",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.6892,
+        "lng": 51.389
+      },
+      "action": {
+        "type": "hex_bin",
+        "target": "35.6892,51.389",
+        "color": "var(--accent-blue)"
+      }
+    },
+    {
+      "id": "84bbc995-a246-49d1-a0ed-8761f5b2af35",
+      "date": "2026-02-28T02:15:00+05:30",
+      "title": "Operation Epic Fury Commences",
+      "description": "Joint US-Israeli military operation begins.",
+      "category": "War",
+      "involvedCountries": [
+        "USA",
+        "ISR",
+        "IRN"
+      ],
+      "impact": "Global markets in shock.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 33.86,
+        "lng": 49.33
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 31.7,
+          "lng": 35.2
+        },
+        "target": "33.86,49.33",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "496c9783-8139-4ef1-abe3-01c80261471e",
+      "date": "2026-02-28T02:45:00+05:30",
+      "title": "Strikes on Natanz Enrichment Facility",
+      "description": "Heavy bunker-buster munitions deployed against underground nuclear sites.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "ISR",
+        "IRN"
+      ],
+      "impact": "Gold hits $2300.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 33.72,
+        "lng": 51.72
+      },
+      "action": {
+        "type": "custom",
+        "target": "33.72,51.72",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "68b3058b-66d2-4be1-8f0b-0692f15c5dec",
+      "date": "2026-02-28T03:10:00+05:30",
+      "title": "Fordow Fuel Enrichment Plant Highly Damaged",
+      "description": "Second wave of strikes hits deep mountain facilities.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Brent crosses $90.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 34.88,
+        "lng": 50.99
+      },
+      "action": {
+        "type": "custom",
+        "target": "34.88,50.99",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "afe856a2-1f92-4e4b-ab1b-5629ae943d5a",
+      "date": "2026-02-28T03:50:00+05:30",
+      "title": "Iranian Air Defenses Suppressed",
+      "description": "US electronic warfare planes blind coastal radar systems.",
+      "category": "Cyber",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Airspace dominance secured.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Cyber",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.0,
+        "lng": 50.0
+      },
+      "action": {
+        "type": "hex_bin",
+        "target": "35.0,50.0",
+        "color": "var(--accent-blue)"
+      }
+    },
+    {
+      "id": "91b09620-befa-4970-9222-08ce1e403f28",
+      "date": "2026-02-28T04:30:00+05:30",
+      "title": "Bandar Abbas Naval Base Struck",
+      "description": "Tomahawk cruise missiles destroy speedboats and submarine pens.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Naval threat neutralized.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 27.18,
+        "lng": 56.27
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 26.2,
+          "lng": 54.8
+        },
+        "target": "27.18,56.27",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "ecab9ef0-5c54-4b95-b74d-88cae6a7156b",
+      "date": "2026-02-28T05:15:00+05:30",
+      "title": "Explosions Near Isfahan Military Complex",
+      "description": "Drone manufacturing hubs heavily hit.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "ISR",
+        "IRN"
+      ],
+      "impact": "Supply lines severed.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 32.65,
+        "lng": 51.66
+      },
+      "action": {
+        "type": "custom",
+        "target": "32.65,51.66",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "dba6d9cc-f104-4e7c-8d76-ce94e61b0071",
+      "date": "2026-02-28T06:00:00+05:30",
+      "title": "China Condemns Violation of Sovereignty",
+      "description": "Beijing issues strong statement against unprovoked attacks.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "CHN",
+        "USA",
+        "ISR"
+      ],
+      "impact": "Yuan dips.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 39.9,
+        "lng": 116.4
+      },
+      "action": {
+        "type": "html_element",
+        "target": "39.9,116.4",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "9b14fa07-6525-4517-bd8f-c352f4997605",
+      "date": "2026-02-28T07:20:00+05:30",
+      "title": "Parchin Military Complex Bombarded",
+      "description": "Facilities linked to weaponization research destroyed.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Nuclear program degraded.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.53,
+        "lng": 51.77
+      },
+      "action": {
+        "type": "custom",
+        "target": "35.53,51.77",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "93595325-2314-4ed9-b8dc-e744015fcee1",
+      "date": "2026-02-28T08:45:00+05:30",
+      "title": "Global Air Travel Diverted",
+      "description": "Commercial flights rerouted entirely away from Middle East airspace.",
+      "category": "Macroeconomic",
+      "involvedCountries": [
+        "Global"
+      ],
+      "impact": "Airlines stocks plummet.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Macroeconomic",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 25.27,
+        "lng": 55.33
+      },
+      "action": {
+        "type": "polygon",
+        "target": "25.27,55.33",
+        "color": "#a855f7"
+      }
+    },
+    {
+      "id": "e0440b71-9a5b-4412-8e3b-0b120aa54c19",
+      "date": "2026-02-28T10:10:00+05:30",
+      "title": "Russian Statements of Support for Iran",
+      "description": "Moscow calls an emergency UN Security Council meeting.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "RUS",
+        "IRN"
+      ],
+      "impact": "Geopolitical fracture deepens.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 55.75,
+        "lng": 37.61
+      },
+      "action": {
+        "type": "html_element",
+        "target": "55.75,37.61",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "1d0989b7-6993-4aee-9392-e2a83db9901e",
+      "date": "2026-02-28T11:30:00+05:30",
+      "title": "IRGC Headquarters in Tehran Decimated",
+      "description": "Precision strikes target command and control centers in the capital.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Leadership communications severed.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.7,
+        "lng": 51.4
+      },
+      "action": {
+        "type": "custom",
+        "target": "35.7,51.4",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "1ef1dec2-64f4-48ba-992f-4d2cd66810f4",
+      "date": "2026-02-28T12:45:00+05:30",
+      "title": "US Pentagon Press Briefing",
+      "description": "DOD confirms massive degradation of Iranian offensive capabilities.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "USA"
+      ],
+      "impact": "Markets stabilize slightly.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 38.87,
+        "lng": -77.05
+      },
+      "action": {
+        "type": "html_element",
+        "target": "38.87,-77.05",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "e34cfbb7-8d7c-496d-8680-59d8126fe435",
+      "date": "2026-02-28T14:00:00+05:30",
+      "title": "Major Iranian Leadership Causalities Reported",
+      "description": "Unverified reports suggest Ayatollah Ali Khamenei assassinated.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "ISR",
+        "IRN"
+      ],
+      "impact": "Oil trading halts briefly.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.7,
+        "lng": 51.4
+      },
+      "action": {
+        "type": "custom",
+        "target": "35.7,51.4",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "f36e28a6-90a2-4212-a6ac-d69c2b52cc83",
+      "date": "2026-02-28T15:20:00+05:30",
+      "title": "Secondary Explosions at Missile Silos",
+      "description": "Kermanshah ballistic missile bases continue burning.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Retaliatory capability reduced.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 34.31,
+        "lng": 47.06
+      },
+      "action": {
+        "type": "custom",
+        "target": "34.31,47.06",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "86a85e37-6063-489b-9c17-a208b549da87",
+      "date": "2026-02-28T17:15:00+05:30",
+      "title": "Saudi Arabia Closes Airspace",
+      "description": "Riyadh braces for spillover violence.",
+      "category": "Macroeconomic",
+      "involvedCountries": [
+        "SAU"
+      ],
+      "impact": "Oil stays elevated.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Macroeconomic",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 24.71,
+        "lng": 46.67
+      },
+      "action": {
+        "type": "polygon",
+        "target": "24.71,46.67",
+        "color": "#a855f7"
+      }
+    },
+    {
+      "id": "5b0ae275-77b3-4c96-9926-77969184a130",
+      "date": "2026-02-28T18:40:00+05:30",
+      "title": "Cyber Retaliation on US Financial Sector",
+      "description": "DDoS attacks temporarily slow Wall Street banking portals.",
+      "category": "Cyber",
+      "involvedCountries": [
+        "IRN",
+        "USA"
+      ],
+      "impact": "VIX spikes 30%.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Cyber",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 40.71,
+        "lng": -74.0
+      },
+      "action": {
+        "type": "hex_bin",
+        "target": "40.71,-74.0",
+        "color": "var(--accent-blue)"
+      }
+    },
+    {
+      "id": "dd0d976a-f4d4-4aca-83a8-ee93210433a1",
+      "date": "2026-02-28T20:00:00+05:30",
+      "title": "Operation Roaring Lion Concludes Phase 1",
+      "description": "Israeli officials declare primary nuclear targets eliminated.",
+      "category": "War",
+      "involvedCountries": [
+        "ISR"
+      ],
+      "impact": "Regional blackout continues.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 31.76,
+        "lng": 35.21
+      },
+      "action": {
+        "type": "custom",
+        "target": "31.76,35.21",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "24356e38-65a3-4769-82a5-733d755d5b33",
+      "date": "2026-02-28T21:30:00+05:30",
+      "title": "Hezbollah Mobilizes on Northern Border",
+      "description": "Lebanese militant front begins heavy artillery fire into Northern Israel.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "LBN",
+        "ISR"
+      ],
+      "impact": "Two-front war begins.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 33.27,
+        "lng": 35.5
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 33.8,
+          "lng": 35.5
+        },
+        "target": "33.27,35.5",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "e632e2ea-2093-431c-b77a-49aa1e479b94",
+      "date": "2026-02-28T22:45:00+05:30",
+      "title": "US Embassies in Europe High Alert",
+      "description": "Intelligence suggests sleeper cell activations globally.",
+      "category": "War",
+      "involvedCountries": [
+        "USA",
+        "EU"
+      ],
+      "impact": "Global security tightened.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 50.85,
+        "lng": 4.35
+      },
+      "action": {
+        "type": "custom",
+        "target": "50.85,4.35",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "16611784-6baa-4dd3-922e-4f8b58ad631b",
+      "date": "2026-02-28T23:50:00+05:30",
+      "title": "Iran TV Broadcasts Surviving Commander",
+      "description": "IRGC general promises 'earth-shattering revenge' before dawn.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "IRN",
+        "USA",
+        "ISR"
+      ],
+      "impact": "Bracing for impact.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.68,
+        "lng": 51.38
+      },
+      "action": {
+        "type": "html_element",
+        "target": "35.68,51.38",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "7f4aeea1-f2b0-401c-8703-8cc3de222659",
+      "date": "2026-03-01T01:10:00+05:30",
+      "title": "First Wave: Ballistic Missiles Launched",
+      "description": "Radar detects multiple launches from deep underground silos in Iran.",
+      "category": "War",
+      "involvedCountries": [
+        "IRN",
+        "USA"
+      ],
+      "impact": "Sirens across the Gulf.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 32.0,
+        "lng": 54.0
+      },
+      "action": {
+        "type": "custom",
+        "target": "32.0,54.0",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "686ae9c6-bed7-4eac-94a4-9413913f0a2a",
+      "date": "2026-03-01T01:45:00+05:30",
+      "title": "Missiles Strike Tel Aviv Outskirts",
+      "description": "A few missiles penetrate the Arrow defense grid, causing structure damage.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "IRN",
+        "ISR"
+      ],
+      "impact": "Gold blasts past $2400.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 32.08,
+        "lng": 34.78
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 34.31,
+          "lng": 47.06
+        },
+        "target": "32.08,34.78",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "8e208147-9d61-4289-bf37-a1da8841db1d",
+      "date": "2026-03-01T02:30:00+05:30",
+      "title": "Al Udeid Air Base Qatar Attacked",
+      "description": "Largest US base in region hit by drone swarms.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "IRN",
+        "USA",
+        "QAT"
+      ],
+      "impact": "Base lockdown. Minor damage.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 25.11,
+        "lng": 51.31
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 27.18,
+          "lng": 56.27
+        },
+        "target": "25.11,51.31",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "7f32655b-f47f-4375-8d5f-0ffc284c0a40",
+      "date": "2026-03-01T03:15:00+05:30",
+      "title": "US Navy Destroyer Engages Threat in Gulf",
+      "description": "USS Thomas Hudner shoots down 4 anti-ship cruise missiles.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Naval battle commenced.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 26.0,
+        "lng": 55.0
+      },
+      "action": {
+        "type": "custom",
+        "target": "26.0,55.0",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "dab46b6d-de4b-4d6c-be03-2a071c0099b5",
+      "date": "2026-03-01T04:45:00+05:30",
+      "title": "Missiles Hit Gulf Bases in Bahrain and UAE",
+      "description": "Heavy barrage targets US 5th Fleet headquarters in Manama and Al Dhafra AB.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "IRN",
+        "USA",
+        "BHR",
+        "ARE"
+      ],
+      "impact": "Significant casualties feared.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 26.06,
+        "lng": 50.55
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 29.6,
+          "lng": 52.5
+        },
+        "target": "26.06,50.55",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "f0688420-c9e9-427f-95f5-e02cf1474444",
+      "date": "2026-03-01T06:20:00+05:30",
+      "title": "Pentagon Confirms Initial Causalities",
+      "description": "3 US Service members confirmed KIA, 5 severely injured.",
+      "category": "War",
+      "involvedCountries": [
+        "USA"
+      ],
+      "impact": "National mourning and anger.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 38.87,
+        "lng": -77.05
+      },
+      "action": {
+        "type": "custom",
+        "target": "38.87,-77.05",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "4543361f-e243-492e-a86c-80b4597504a0",
+      "date": "2026-03-01T08:00:00+05:30",
+      "title": "Emergency POTUS Address to Nation",
+      "description": "President vows swift, disproportionate response if attacks continue.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "USA"
+      ],
+      "impact": "Markets extremely volatile.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 38.89,
+        "lng": -77.03
+      },
+      "action": {
+        "type": "html_element",
+        "target": "38.89,-77.03",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "1ddb6cea-c53b-46fe-9177-2c5ab5187031",
+      "date": "2026-03-01T09:30:00+05:30",
+      "title": "Global Markets React",
+      "description": "Asian markets crash by 6%. European markets open sharply lower.",
+      "category": "Macroeconomic",
+      "involvedCountries": [
+        "Global"
+      ],
+      "impact": "Flight to safety in US Treasuries and Gold.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Macroeconomic",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 35.67,
+        "lng": 139.75
+      },
+      "action": {
+        "type": "polygon",
+        "target": "35.67,139.75",
+        "color": "#a855f7"
+      }
+    },
+    {
+      "id": "89f42359-8358-433c-89fe-42257f28c59c",
+      "date": "2026-03-01T10:45:00+05:30",
+      "title": "Missile Strike on Saudi Oil Installation",
+      "description": "Abqaiq facility targeted again, multiple fires reported.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "IRN",
+        "SAU"
+      ],
+      "impact": "Brent touches $100/bbl.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 25.93,
+        "lng": 49.67
+      },
+      "action": {
+        "type": "custom",
+        "target": "25.93,49.67",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "97c2388d-054f-4d6a-b979-721b8a54e451",
+      "date": "2026-03-01T12:15:00+05:30",
+      "title": "Israel Strikes Beirut Suburbs",
+      "description": "Retaliation against Hezbollah command centers.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "ISR",
+        "LBN"
+      ],
+      "impact": "Massive civilian displacement.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 33.88,
+        "lng": 35.49
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": 32.8,
+          "lng": 34.9
+        },
+        "target": "33.88,35.49",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "da22bd72-5512-47ae-962a-03bc5e5af2f2",
+      "date": "2026-03-01T13:53:00+05:30",
+      "title": "Houthi Missile Intercepted Over Eilat",
+      "description": "Israel's Arrow-3 intercepts surface-to-surface missile.",
+      "category": "Kinetic Strike",
+      "involvedCountries": [
+        "YEM",
+        "ISR"
+      ],
+      "impact": "Air defense strains.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Kinetic Strike",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 29.55,
+        "lng": 34.95
+      },
+      "action": {
+        "type": "custom",
+        "target": "29.55,34.95",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "a8421436-cc4e-41dc-8015-f1972866f9e7",
+      "date": "2026-03-01T15:30:00+05:30",
+      "title": "Pope Calls for Halt to Spiral of Violence",
+      "description": "Vatican issues desperate plea for peace and negotiations.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "VAT",
+        "Global"
+      ],
+      "impact": "Moral appeal gains traction.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 41.9,
+        "lng": 12.45
+      },
+      "action": {
+        "type": "html_element",
+        "target": "41.9,12.45",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "67460a41-1134-46de-9785-cb6fde35b675",
+      "date": "2026-03-01T17:10:00+05:30",
+      "title": "Strait of Hormuz Effectively Closed",
+      "description": "Burning tankers block shipping lanes. Insurance premiums halt traffic.",
+      "category": "Macroeconomic",
+      "involvedCountries": [
+        "Global"
+      ],
+      "impact": "Largest energy shock since 1970s.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Macroeconomic",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 26.56,
+        "lng": 56.25
+      },
+      "action": {
+        "type": "polygon",
+        "target": "26.56,56.25",
+        "color": "#a855f7"
+      }
+    },
+    {
+      "id": "3a31724d-d448-4b0e-8d3a-69e44a55c61e",
+      "date": "2026-03-01T19:00:00+05:30",
+      "title": "US B-2 Bombers Deployed",
+      "description": "Stealth bombers seen leaving Diego Garcia, heading towards Iran.",
+      "category": "War",
+      "involvedCountries": [
+        "USA",
+        "IRN"
+      ],
+      "impact": "Escalation to massive retaliation expected.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": -7.31,
+        "lng": 72.41
+      },
+      "action": {
+        "type": "missile_arc",
+        "source": {
+          "lat": -7.3,
+          "lng": 72.4
+        },
+        "target": "-7.31,72.41",
+        "color": "var(--accent-red)"
+      }
+    },
+    {
+      "id": "4ed1dbb3-f7d8-4966-9d5c-1bc156f4f0a4",
+      "date": "2026-03-01T21:45:00+05:30",
+      "title": "Massive Blackout in Northern Israel",
+      "description": "Suspected combined cyber and kinetic attack knocks out power grid.",
+      "category": "Cyber",
+      "involvedCountries": [
+        "IRN",
+        "LBN",
+        "ISR"
+      ],
+      "impact": "Civilians ordered to bunkers.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Cyber",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 32.8,
+        "lng": 35.0
+      },
+      "action": {
+        "type": "hex_bin",
+        "target": "32.8,35.0",
+        "color": "var(--accent-blue)"
+      }
+    },
+    {
+      "id": "3e48fe51-c597-4fd7-a79b-7bd1b4048184",
+      "date": "2026-03-01T23:15:00+05:30",
+      "title": "UN Security Council Deadlocks",
+      "description": "US vetoes ceasefire resolution demanding complete Israeli withdrawal.",
+      "category": "Diplomacy",
+      "involvedCountries": [
+        "UN",
+        "USA",
+        "RUS",
+        "CHN"
+      ],
+      "impact": "Diplomatic failure complete.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "Diplomacy",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 40.75,
+        "lng": -73.98
+      },
+      "action": {
+        "type": "html_element",
+        "target": "40.75,-73.98",
+        "color": "#facc15"
+      }
+    },
+    {
+      "id": "2e407b3d-0677-4161-84fb-43c379b09953",
+      "date": "2026-03-01T23:55:00+05:30",
+      "title": "Second Wave Warnings Sirens Sound in UAE",
+      "description": "Incoming missile alerts trigger mass panic in Dubai and Abu Dhabi.",
+      "category": "War",
+      "involvedCountries": [
+        "IRN",
+        "ARE"
+      ],
+      "impact": "Chaos ensues into midnight.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "#",
+          "type": "verified"
+        },
+        {
+          "name": "Bloomberg",
+          "url": "#",
+          "type": "verified"
+        }
+      ],
+      "tags": [
+        "War",
+        "Middle East",
+        "Conflict 2026"
+      ],
+      "coordinates": {
+        "lat": 25.2,
+        "lng": 55.27
+      },
+      "action": {
+        "type": "custom",
+        "target": "25.2,55.27",
+        "color": "var(--accent-red)"
+      }
+    }
+  ],
+  "markets": [
+    {
+      "time": "2026-01-01",
+      "brent": 60.75,
+      "gold": 4321.48
+    },
+    {
+      "time": "2026-01-02",
+      "brent": 60.75,
+      "gold": 4329.6
+    },
+    {
+      "time": "2026-01-03",
+      "brent": 61.76,
+      "gold": 4451.5
+    },
+    {
+      "time": "2026-01-04",
+      "brent": 61.76,
+      "gold": 4451.5
+    },
+    {
+      "time": "2026-01-05",
+      "brent": 61.76,
+      "gold": 4451.5
+    },
+    {
+      "time": "2026-01-06",
+      "brent": 60.7,
+      "gold": 4496.1
+    },
+    {
+      "time": "2026-01-07",
+      "brent": 59.96,
+      "gold": 4462.5
+    },
+    {
+      "time": "2026-01-08",
+      "brent": 61.99,
+      "gold": 4460.7
+    },
+    {
+      "time": "2026-01-09",
+      "brent": 63.34,
+      "gold": 4500.9
+    },
+    {
+      "time": "2026-01-10",
+      "brent": 63.87,
+      "gold": 4614.7
+    },
+    {
+      "time": "2026-01-11",
+      "brent": 63.87,
+      "gold": 4614.7
+    },
+    {
+      "time": "2026-01-12",
+      "brent": 63.87,
+      "gold": 4614.7
+    },
+    {
+      "time": "2026-01-13",
+      "brent": 65.47,
+      "gold": 4599.1
+    },
+    {
+      "time": "2026-01-14",
+      "brent": 66.52,
+      "gold": 4635.7
+    },
+    {
+      "time": "2026-01-15",
+      "brent": 63.76,
+      "gold": 4623.7
+    },
+    {
+      "time": "2026-01-16",
+      "brent": 64.13,
+      "gold": 4595.4
+    },
+    {
+      "time": "2026-01-17",
+      "brent": 64.92,
+      "gold": 4765.8
+    },
+    {
+      "time": "2026-01-18",
+      "brent": 64.92,
+      "gold": 4765.8
+    },
+    {
+      "time": "2026-01-19",
+      "brent": 64.92,
+      "gold": 4765.8
+    },
+    {
+      "time": "2026-01-20",
+      "brent": 64.92,
+      "gold": 4765.8
+    },
+    {
+      "time": "2026-01-21",
+      "brent": 65.24,
+      "gold": 4837.5
+    },
+    {
+      "time": "2026-01-22",
+      "brent": 64.06,
+      "gold": 4913.4
+    },
+    {
+      "time": "2026-01-23",
+      "brent": 65.88,
+      "gold": 4979.7
+    },
+    {
+      "time": "2026-01-24",
+      "brent": 65.59,
+      "gold": 5122.3
+    },
+    {
+      "time": "2026-01-25",
+      "brent": 65.59,
+      "gold": 5122.3
+    },
+    {
+      "time": "2026-01-26",
+      "brent": 65.59,
+      "gold": 5122.3
+    },
+    {
+      "time": "2026-01-27",
+      "brent": 67.57,
+      "gold": 5120.6
+    },
+    {
+      "time": "2026-01-28",
+      "brent": 68.4,
+      "gold": 5340.2
+    },
+    {
+      "time": "2026-01-29",
+      "brent": 70.71,
+      "gold": 5354.8
+    },
+    {
+      "time": "2026-01-30",
+      "brent": 70.69,
+      "gold": 4745.1
+    },
+    {
+      "time": "2026-01-31",
+      "brent": 66.3,
+      "gold": 4652.6
+    },
+    {
+      "time": "2026-02-01",
+      "brent": 66.3,
+      "gold": 4652.6
+    },
+    {
+      "time": "2026-02-02",
+      "brent": 66.3,
+      "gold": 4652.6
+    },
+    {
+      "time": "2026-02-03",
+      "brent": 67.33,
+      "gold": 4935.0
+    },
+    {
+      "time": "2026-02-04",
+      "brent": 69.46,
+      "gold": 4950.8
+    },
+    {
+      "time": "2026-02-05",
+      "brent": 67.55,
+      "gold": 4889.5
+    },
+    {
+      "time": "2026-02-06",
+      "brent": 68.05,
+      "gold": 4979.8
+    },
+    {
+      "time": "2026-02-07",
+      "brent": 69.04,
+      "gold": 5079.4
+    },
+    {
+      "time": "2026-02-08",
+      "brent": 69.04,
+      "gold": 5079.4
+    },
+    {
+      "time": "2026-02-09",
+      "brent": 69.04,
+      "gold": 5079.4
+    },
+    {
+      "time": "2026-02-10",
+      "brent": 68.8,
+      "gold": 5031.0
+    },
+    {
+      "time": "2026-02-11",
+      "brent": 69.4,
+      "gold": 5098.5
+    },
+    {
+      "time": "2026-02-12",
+      "brent": 67.52,
+      "gold": 4948.4
+    },
+    {
+      "time": "2026-02-13",
+      "brent": 67.75,
+      "gold": 5046.3
+    },
+    {
+      "time": "2026-02-14",
+      "brent": 67.97,
+      "gold": 4905.9
+    },
+    {
+      "time": "2026-02-15",
+      "brent": 67.97,
+      "gold": 4905.9
+    },
+    {
+      "time": "2026-02-16",
+      "brent": 67.97,
+      "gold": 4905.9
+    },
+    {
+      "time": "2026-02-17",
+      "brent": 66.87,
+      "gold": 4905.9
+    },
+    {
+      "time": "2026-02-18",
+      "brent": 69.77,
+      "gold": 5009.5
+    },
+    {
+      "time": "2026-02-19",
+      "brent": 71.27,
+      "gold": 4997.4
+    },
+    {
+      "time": "2026-02-20",
+      "brent": 71.3,
+      "gold": 5080.9
+    },
+    {
+      "time": "2026-02-21",
+      "brent": 71.49,
+      "gold": 5207.5
+    },
+    {
+      "time": "2026-02-22",
+      "brent": 71.49,
+      "gold": 5207.5
+    },
+    {
+      "time": "2026-02-23",
+      "brent": 71.49,
+      "gold": 5207.5
+    },
+    {
+      "time": "2026-02-24",
+      "brent": 70.77,
+      "gold": 5157.8
+    },
+    {
+      "time": "2026-02-25",
+      "brent": 70.85,
+      "gold": 5208.0
+    },
+    {
+      "time": "2026-02-26",
+      "brent": 70.75,
+      "gold": 5194.2
+    },
+    {
+      "time": "2026-02-27",
+      "brent": 72.48,
+      "gold": 5247.9
+    },
+    {
+      "time": "2026-02-28",
+      "brent": 78.36,
+      "gold": 5282.0
+    },
+    {
+      "time": "2026-03-01",
+      "brent": 78.36,
+      "gold": 5319.5
+    }
+  ]
+}
